@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link'
 
 export const ProductOptions = ({ name, values, selectedOptions, setOptions }) => {
   return (
